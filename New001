@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<stirng.h>
+
+int main(void)
+{
+  int a,b;
+  scanf("%d%d",&a,&b);
+  //Add a printf here添加一句话试试
+  
+  return 0;
+
+
+
+}
